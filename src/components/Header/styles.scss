@@ -15,12 +15,13 @@
     font-family: $ralleway;
     font-size: 1.2rem;
     font-weight: 700;
-    padding: 1rem;
     transition: 0.2s linear all;
 
     a {
       color: $black;
+      display: inline-block;
       text-decoration: none;
+      padding: 1rem;
     }
 
     &:hover {

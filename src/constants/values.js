@@ -10,7 +10,7 @@ export const PAGE_4O4 = {
 export const MENU = [
   {
     page: 'Blog',
-    url: '/blog',
+    url: '/',
   },
   {
     page: 'About',
