@@ -1,0 +1,17 @@
+@import '../../styles/index.scss';
+
+.article {
+  font-family: $ralleway;
+
+  &_title {
+    font-family: $merriweather;
+    margin-bottom: 0.5rem;
+  }
+
+  h2:nth-of-type(1) {
+    color: $grey;
+    font-size: 1.2rem;
+    margin-top: 0;
+    text-transform: capitalize;
+  }
+}

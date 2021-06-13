@@ -1,0 +1,11 @@
+.container {
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 4rem 6rem;
+  width: 60%;
+
+  @media screen and (max-width: 800px) {
+    padding: 4rem 0;
+    width: 80%;
+  }
+}

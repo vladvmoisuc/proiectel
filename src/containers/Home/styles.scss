@@ -1,0 +1,12 @@
+@import '../../styles/index.scss';
+
+.articles {
+  &_link {
+    color: $black;
+    display: block;
+    font-family: $merriweather;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+  }
+}
